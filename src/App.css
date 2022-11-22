@@ -22,7 +22,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
   visibility: visible;
-  background-color: #282c34;
+  background-color: red;
 }
 
 .app-link {

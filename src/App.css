@@ -21,8 +21,8 @@
   min-height: 100vh;
   font-size: calc(10px + 2vmin);
   color: white;
-  background-color: #282c34;
   visibility: visible;
+  background-color: #282c34;
 }
 
 .app-link {
